@@ -26,7 +26,8 @@ The target attribute is binary: 1 – the customer is interested , 0 – the cus
 
 
 
-![Capture](https://user-images.githubusercontent.com/75788150/178161884-12eb32e2-0563-4ca0-9953-01f45761042d.PNG)
+![Capture](https://user-images.githubusercontent.com/75788150/178162083-dfc23eeb-d826-4a79-a91e-a38197475d72.PNG)
+
 
 
 
